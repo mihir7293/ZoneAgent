@@ -51,10 +51,6 @@ Refer https://github.com/mihir7293/ZoneAgent/issues.
 
 Note : Please do report any bugs or problems if came across.
 
-Work going on
--------------
-1. Clearing bugs
-2. Solving all issues as mentioned above
 
 Thanks To
 ---------
